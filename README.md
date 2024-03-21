@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruthi&label=Profile%20views&color=0e75b6&style=flat" alt="dhruthi" /> </p>
 
-- I’m currently Studying **Computer Science Engineering**
+- I’m recently graduated in **Computer Science Engineering**
 
 - 🤝 I’m looking for help with **Machine Learning and Deep Learning Projects**
 
