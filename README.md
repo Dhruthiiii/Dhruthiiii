@@ -126,10 +126,6 @@ dhruthi = {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhruthiiii&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b35&currStreakLabel=58a6ff" width="60%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhruthiiii&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff6b35" width="90%" />
-</p>
-
 ---
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:c5d8ff,50:dce8ff,100:f0f4ff&height=100&section=footer"/>
