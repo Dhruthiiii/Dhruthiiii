@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:f0f4ff,50:dce8ff,100:c5d8ff&height=220&section=header&text=Dhruthi%20Sowmya%20Gundavarapu&fontSize=42&fontColor=000000&animation=fadeIn&fontAlignY=38&desc=Product%20Security%20Engineer%20%7C%20Security%20Builder%20%7C%20GenAI%20Security&descAlignY=58&descSize=18&descColor=1a1a2e"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=1000&color=0A0A0A&center=true&vCenter=true&width=750&lines=🔐+Breaking+things+before+attackers+do;🚀+Building+security+products+at+Flipkart;🤖+OWASP+LLM+Top+10+%7C+Securing+GenAI+systems;🗺️+6%2C000%2B+APIs+mapped.+Zero+blind+spots.;🎤+BSides+Kerala+Speaker+%7C+CEH+Certified" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=1000&color=1a1a2e&center=true&vCenter=true&width=750&lines=Breaking+things+before+attackers+do;Building+security+products+at+Flipkart;OWASP+LLM+Top+10+%7C+Securing+GenAI+systems;6%2C000%2B+APIs+mapped.+Zero+blind+spots.;BSides+Kerala+Speaker+%7C+CEH+Certified" alt="Typing SVG" />
 </p>
 
 <p align="center">
