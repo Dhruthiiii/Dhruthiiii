@@ -19,10 +19,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/🟢%20Open%20to%20Senior%20Security%20Roles-brightgreen?style=for-the-badge"/>
-  <img src="https://komarev.com/ghpvc/?username=Dhruthiiii&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS"/>
-</p>
 
 ---
 
